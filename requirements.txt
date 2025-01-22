@@ -1,0 +1,4 @@
+git+https://github.com/TUL-Dev/PyQuantUS
+PyQt6==6.7.1
+pyqtgraph==0.13.7
+ipykernel==6.29.2
