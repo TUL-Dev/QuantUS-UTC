@@ -70,18 +70,12 @@ python main.py
 
 ## Sample Data
 
-This folder  contains minimal sample data required to get each feature of
-QuantUS working. Note that since phantom data must be collected using
+[This folder](https://drive.google.com/drive/folders/1B153p1JFc8OxHzYYpb_ijH-9Yr_wfe30?usp=sharing)
+contains minimal sample data required to get started with UTC.
+Note that since phantom data must be collected using
 identical transducer settings as the images they're compared to, we
 do not recommend using phantoms from this folder for analysis on custom
 data.
-
-This dataset can be installed locally using our Python virtual environment. Specifically, the commands for installation are
-
-```shell
-source .venv/bin/activate | call .venv\Scripts\activate.bat
-python sampleData.py
-```
 
 ## Reference Phantom Dataset
 
