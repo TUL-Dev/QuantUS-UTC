@@ -1,6 +1,6 @@
 # QuantUS-UTC
 
-QuantUS is an open-source quantitative analysis tool designed for ultrasonic tissue characterization (UTC) and contrast enhanced ultrasound (CEUS) imaging analysis. This repository contains all code behind the UTC features of the software.
+[QuantUS](https://github.com/TUL-Dev/QuantUS) is an open-source quantitative analysis tool designed for ultrasonic tissue characterization (UTC) and contrast enhanced ultrasound (CEUS) imaging analysis. This repository contains all code behind the UTC features of the software.
 
 ## Overview
 
